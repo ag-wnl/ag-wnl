@@ -7,6 +7,6 @@ I take deep interest in Web Technologies and problem solving. Checkout:
 - [ReaderAI](https://github.com/ag-wnl/readerai) - Helps you annotate/take notes across the web seamlessly in a new way, answer prompts and everything just a click away!
 - [Clensify](https://github.com/ag-wnl/Clensify) - A profanity detection library, incorporating extensive pre-processing helping detect various bypass techniques and multi-stage detection chain. Written in TypeScript.
 - [Hashnot](https://github.com/ag-wnl/hashnot) - Developing a platform which helps connect developers across the world, helping them build together! Uses a React frontend, Node.js and MySQL database in the backend.
-- [Competitive-programming](https://github.com/ag-wnl/competitive-programming) - Collections of solutions to various programming problems, written in C++.
+- [Competitive Programming](https://github.com/ag-wnl/competitive-programming) - Collections of solutions to various programming problems, written in C++.
 
 How to reach me: ag.wnl.dev@gmail.com
