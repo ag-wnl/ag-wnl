@@ -1,5 +1,5 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/agnideep)
-[<img src="https://img.shields.io/badge/portfolio-%8A2BE2.svg?&style=for-the-badge&logoColor=grey" />](https://agnideep.netlify.app/)
+[<img src="https://img.shields.io/badge/portfolio-%230077B5.svg?&style=for-the-badge&logoColor=grey&color=white" />](https://agnideep.netlify.app/)
 
 ### Hi 👋, I'm Agnideep!
 
