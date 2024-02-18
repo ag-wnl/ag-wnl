@@ -9,4 +9,4 @@ I take deep interest in web technologies and problem solving. Checkout:
 - [Hashnot](https://github.com/ag-wnl/hashnot) - Developing a platform which helps connect developers across the world, helping them build together! Uses a React frontend, Node.js and MySQL database in the backend.
 - [Competitive Programming](https://github.com/ag-wnl/competitive-programming) - Collection of solutions to various programming problems, written in C++.
 
-How to reach me: ag.wnl.dev@gmail.com
+How to reach me: agnideep22@gmail.com
