@@ -1,7 +1,7 @@
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/agnideep)
-[<img src="https://img.shields.io/badge/portfolio-%230077B5.svg?&style=for-the-badge&logoColor=grey&color=e9d4fc" />](https://agnideep.netlify.app/)
+[<img src="https://img.shields.io/badge/Linkedin-Portfolio?style=plastic&logo=linkedin&logoColor=blue&color=grey" />](https://www.linkedin.com/in/agnideep)
+[<img src="https://img.shields.io/badge/Portfolio_Website-Portfolio?style=plastic&logo=aboutdotme&logoColor=blue&color=blue" />](https://agnideep.netlify.app/)
 
-I take deep interest in web technologies and problem solving. Checkout:
+I take deep interest in web technologies and problem solving.
 - [ReaderAI](https://github.com/ag-wnl/readerai) - Helps you annotate/take notes across the web seamlessly in a new way, answer prompts and everything just a click away! Select any text content in a website which confuses you, get instant answer prompt and translation.
 - [Clensify](https://github.com/ag-wnl/Clensify) - A profanity detection library, incorporating extensive pre-processing helping detect various bypass techniques and multi-stage detection chain. Written in TypeScript.
 - [Hashnot](https://github.com/ag-wnl/hashnot) - Developing a platform which helps connect developers across the world, helping them build together! Uses a React frontend, Node.js and MySQL database in the backend.
